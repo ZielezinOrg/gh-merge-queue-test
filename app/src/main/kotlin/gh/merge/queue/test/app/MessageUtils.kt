@@ -7,7 +7,6 @@ class MessageUtils {
     companion object {
         fun getMessage1(): String = "Hello          World!!!"
 
-        fun getMessage2(): String = "Hello          World!!!"
 
         fun getMessage3(): String = "3 Hello          World!!!"
 
