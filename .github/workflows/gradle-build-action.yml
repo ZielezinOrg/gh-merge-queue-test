@@ -1,8 +1,8 @@
 name: Run Gradle on PRs
 on:
-  merge_group:
-    types:
-      - checks_requested
+    pull_request: {}
+    merge_group:
+        types: [checks_requested]
 jobs:
   gradle:
     strategy:
