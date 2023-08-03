@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gh-merge-queue-test.iml" filepath="$PROJECT_DIR$/.idea/modules/gh-merge-queue-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/gh-merge-queue-test.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/gh-merge-queue-test.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/gh-merge-queue-test.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/gh-merge-queue-test.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/gh-merge-queue-test.app.test.iml" filepath="$PROJECT_DIR$/.idea/modules/app/gh-merge-queue-test.app.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/buildSrc/gh-merge-queue-test.buildSrc.iml" filepath="$PROJECT_DIR$/.idea/modules/buildSrc/gh-merge-queue-test.buildSrc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/buildSrc/gh-merge-queue-test.buildSrc.main.iml" filepath="$PROJECT_DIR$/.idea/modules/buildSrc/gh-merge-queue-test.buildSrc.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/buildSrc/gh-merge-queue-test.buildSrc.test.iml" filepath="$PROJECT_DIR$/.idea/modules/buildSrc/gh-merge-queue-test.buildSrc.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/list/gh-merge-queue-test.list.iml" filepath="$PROJECT_DIR$/.idea/modules/list/gh-merge-queue-test.list.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/list/gh-merge-queue-test.list.main.iml" filepath="$PROJECT_DIR$/.idea/modules/list/gh-merge-queue-test.list.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/list/gh-merge-queue-test.list.test.iml" filepath="$PROJECT_DIR$/.idea/modules/list/gh-merge-queue-test.list.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/utilities/gh-merge-queue-test.utilities.iml" filepath="$PROJECT_DIR$/.idea/modules/utilities/gh-merge-queue-test.utilities.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/utilities/gh-merge-queue-test.utilities.main.iml" filepath="$PROJECT_DIR$/.idea/modules/utilities/gh-merge-queue-test.utilities.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/utilities/gh-merge-queue-test.utilities.test.iml" filepath="$PROJECT_DIR$/.idea/modules/utilities/gh-merge-queue-test.utilities.test.iml" />
+    </modules>
+  </component>
+</project>
