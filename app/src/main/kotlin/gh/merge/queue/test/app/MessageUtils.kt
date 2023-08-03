@@ -5,6 +5,11 @@ package gh.merge.queue.test.app
 
 class MessageUtils {
     companion object {
-        fun getMessage(): String = "Hello          World!!!"
+        fun getMessage1(): String = "Hello          World!!!"
+
+        fun getMessage2(): String = "Hello          World!!!"
+
+        fun getMessage3(): String = "Hello          World!!!"
+
     }
 }

@@ -9,6 +9,10 @@ import org.junit.jupiter.api.Assertions.assertEquals
 
 class MessageUtilsTest {
     @Test fun testGetMessage() {
-        assertEquals("Hello          World!!!", MessageUtils.getMessage())
+        assertEquals("Hello          World!!!", MessageUtils.getMessage1())
+
+        assertEquals("Hello          World!!!", MessageUtils.getMessage2())
+
+        assertEquals("Hello          World!!!", MessageUtils.getMessage3())
     }
 }
