@@ -13,6 +13,6 @@ class MessageUtilsTest {
 
         assertEquals("Hello          World!!!", MessageUtils.getMessage2())
 
-        assertEquals("Hello          World!!!", MessageUtils.getMessage3())
+        assertEquals("3 Hello          World!!!", MessageUtils.getMessage3())
     }
 }
