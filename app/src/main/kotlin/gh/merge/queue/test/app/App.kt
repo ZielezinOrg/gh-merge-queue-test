@@ -10,5 +10,6 @@ import org.apache.commons.text.WordUtils
 fun main() {
     val tokens = StringUtils.split(MessageUtils.getMessage1())
     val result = StringUtils.join(tokens)
+    println("non breaking concurrent change")
     println(WordUtils.capitalize(result))
 }
