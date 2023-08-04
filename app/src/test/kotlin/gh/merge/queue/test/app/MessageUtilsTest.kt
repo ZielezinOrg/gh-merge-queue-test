@@ -11,6 +11,6 @@ class MessageUtilsTest {
     @Test fun testGetMessage() {
         assertEquals("Hello          World!!!", MessageUtils.getMessage1())
 
-        assertEquals("Hello          World!!!", MessageUtils.getMessage3())
+        assertEquals("3 Hello          World!!!", MessageUtils.getMessage3())
     }
 }
