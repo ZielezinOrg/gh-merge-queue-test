@@ -8,7 +8,7 @@ class MessageUtils {
         fun getMessage1(): String = "1 Hello          World!!!"
 
 
-        fun getMessage3(): String = "3 Hello          World!!!"
+        fun getMessage3(): String = "Hello          World!!!"
 
     }
 }
